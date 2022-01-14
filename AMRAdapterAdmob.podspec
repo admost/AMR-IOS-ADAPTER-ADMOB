@@ -19,6 +19,6 @@ Pod::Spec.new do |s|
   s.ios.deployment_target = '9.0'
   s.vendored_libraries = 'AMRAdapterAdmob/Libs/libAMRAdapterAdmob.a'
   s.pod_target_xcconfig = { 'VALID_ARCHS' => 'armv7 arm64 x86_64' }
-  s.dependency 'AMRSDK', '~> 1.5.0'
+  s.dependency 'AMRSDK', '~> 1.5.4'
   s.dependency 'Google-Mobile-Ads-SDK', '8.13.0.0'
 end
