@@ -9,7 +9,7 @@ Pod::Spec.new do |s|
   s.homepage         = 'http://www.admost.com/'
   s.author           = { 'Admost Mediation Limited' => 'amr@admost.com' }
   s.summary          = 'Admob adapter for AMR SDK.'
-  s.description      = 'AMR Admob adapter allows publishers to mediate Admob banner, native, interstitial and video ads in AMR SDK.'
+  s.description      = 'AMR Admob adapter allows publishers to mediate Admob banner, native, interstitial and video ads in AMRSDK.'
 
   s.source           = { :git => 'https://github.com/admost/AMR-IOS-ADAPTER-ADMOB.git',
  								 :tag => s.version.to_s
