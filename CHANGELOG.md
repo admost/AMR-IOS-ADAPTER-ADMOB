@@ -3,6 +3,10 @@
 Changelog for AMRAdapterAdmob. 
 GoogleMobileAds [changelog](https://developers.google.com/admob/ios/rel-notes)
 
+## [10.5.0.0] - 2023-05-22
+### Updated
+- Offical release for Google Mobile Ads 10.5.0
+
 ## [10.4.0.0] - 2023-04-24
 ### Updated
 - Offical release for Google Mobile Ads 10.4.0
