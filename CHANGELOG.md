@@ -3,6 +3,10 @@
 Changelog for AMRAdapterAdmob. 
 GoogleMobileAds [changelog](https://developers.google.com/admob/ios/rel-notes)
 
+## [10.6.0.0] - 2023-06-08
+### Updated
+- Offical release for Google Mobile Ads 10.6.0
+
 ## [10.5.0.1] - 2023-05-30
 ### Updated
 - Inline adapter banner added for 250px MPU banners.
