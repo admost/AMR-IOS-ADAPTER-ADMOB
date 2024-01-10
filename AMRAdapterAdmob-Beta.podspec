@@ -24,6 +24,6 @@ Pod::Spec.new do |s|
     'VALID_ARCHS[sdk=iphoneos*]' => 'armv7 arm64',
     'VALID_ARCHS[sdk=iphonesimulator*]' => 'x86_64 arm64'
   }
-  s.dependency 'AMRSDK-Beta', '~> 1.5.15'
+  s.dependency 'AMRSDK-Beta', '~> 1.5.41'
   s.dependency 'Google-Mobile-Ads-SDK', '10.14.0'
 end
