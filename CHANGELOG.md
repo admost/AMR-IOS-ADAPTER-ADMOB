@@ -3,6 +3,11 @@
 Changelog for AMRAdapterAdmob. 
 GoogleMobileAds [changelog](https://developers.google.com/admob/ios/rel-notes)
 
+## [11.6.0.0] - 2024-06-24
+### Updated
+- Offical release for Google Mobile Ads 11.6.0
+- Updated minimum Xcode requirement to 15.3
+
 ## [11.5.0.0] - 2024-05-17
 ### Updated
 - Offical release for Google Mobile Ads 11.5.0
