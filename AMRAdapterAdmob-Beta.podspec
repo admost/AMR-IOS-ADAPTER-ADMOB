@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'AMRAdapterAdmob-Beta'
-  s.version          = '11.6.0.0'
+  s.version          = '11.7.0.0'
   s.license          = { :type => 'Copyright', :text => <<-LICENSE
                             Copyright 2016
                             Admost Mediation Limited.
@@ -26,5 +26,5 @@ Pod::Spec.new do |s|
     'VALID_ARCHS[sdk=iphonesimulator*]' => 'x86_64 arm64'
   }
   s.dependency 'AMRSDK-Beta', '~> 1.5.41'
-  s.dependency 'Google-Mobile-Ads-SDK', '11.6.0'
+  s.dependency 'Google-Mobile-Ads-SDK', '11.7.0'
 end
