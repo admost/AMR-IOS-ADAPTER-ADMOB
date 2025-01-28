@@ -3,6 +3,10 @@
 Changelog for AMRAdapterAdmob. 
 GoogleMobileAds [changelog](https://developers.google.com/admob/ios/rel-notes)
 
+## [11.13.0.2] - 2024-01-28
+### Updated
+- Some improvements.
+
 ## [11.13.0.1] - 2024-12-30
 ### Updated
 - Revenue Paid supported added.
