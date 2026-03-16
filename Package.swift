@@ -33,7 +33,8 @@ let package = Package(
         ),
         .binaryTarget(
             name: "AMRAdapterAdmobBinary",
-            path: "AMRAdapterAdmob/Libs/AMRAdapterAdmob.xcframework"
+            url: "https://github.com/admost/AMR-IOS-ADAPTER-ADMOB/releases/download/13.1.2/AMRAdapterAdmob.xcframework.zip",
+            checksum: "c9fe5cc603d7f245c9e3e01f61e6caedb38820608d4f85cdf71cce3491323f9c"
         )
     ]
 )
