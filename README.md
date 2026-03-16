@@ -9,6 +9,10 @@
 
 AdMob adapter for AMRSDK. Allows publishers to mediate AdMob banner, native, interstitial and video ads in AMRSDK.
 
+## Versioning
+
+Versions follow `MAJOR.MINOR.OWN_VERSION` where `MAJOR.MINOR` tracks the AdMob SDK version and `OWN_VERSION` is the adapter revision.
+
 ## Requirements
 
 - iOS 13.0+
@@ -21,7 +25,7 @@ AdMob adapter for AMRSDK. Allows publishers to mediate AdMob banner, native, int
 Add the following to your `Package.swift` dependencies:
 
 ```swift
-.package(url: "https://github.com/admost/AMR-IOS-ADAPTER-ADMOB.git", from: "13.1.0.0")
+.package(url: "https://github.com/admost/AMR-IOS-ADAPTER-ADMOB.git", from: "13.1.0")
 ```
 
 Then add `AMRAdapterAdmob` to your target dependencies:
