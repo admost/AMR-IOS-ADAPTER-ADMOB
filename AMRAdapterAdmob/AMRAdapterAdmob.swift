@@ -1,3 +1,6 @@
-public enum AMRAdapterAdmob {
-    public static let version = "13.1.0"
-}
+//
+//  AMRAdapterAdmob.swift
+//  AMRAdapterAdmob
+//
+//  Copyright © 2016 Admost Mediation Limited. All rights reserved.
+//

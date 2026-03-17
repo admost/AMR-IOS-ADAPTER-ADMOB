@@ -3,13 +3,11 @@
 Changelog for AMRAdapterAdmob. 
 GoogleMobileAds [changelog](https://developers.google.com/admob/ios/rel-notes)
 
-## [13.1.2] - 2026-03-16
-### Updated
-- Binary target switched to URL-based distribution.
-
-## [13.1.1] - 2026-03-16
+## [13.1.2] - 2026-03-17
 ### Updated
 - AMRSDK dependency updated to 1.5.80.
+- armv7 removed from VALID_ARCHS (not supported by xcframework).
+- Copyright header added to AMRAdapterAdmob.swift.
 
 ## [13.1.0] - 2026-03-16
 ### Updated

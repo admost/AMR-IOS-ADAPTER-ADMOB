@@ -9,7 +9,7 @@ let package = Package(
     products: [
         .library(
             name: "AMRAdapterAdmob",
-            targets: ["AMRAdapterAdmobWrapper"]
+            targets: ["AMRAdapterAdmobTarget"]
         )
     ],
     dependencies: [
@@ -18,9 +18,9 @@ let package = Package(
     ],
     targets: [
         .target(
-            name: "AMRAdapterAdmobWrapper",
+            name: "AMRAdapterAdmobTarget",
             dependencies: [
-                "AMRAdapterAdmobBinary",
+                "AMRAdapterAdmob",
                 .product(name: "AMRSDK", package: "AMR-IOS-SDK"),
                 .product(name: "GoogleMobileAds", package: "swift-package-manager-google-mobile-ads")
             ],
