@@ -3,6 +3,10 @@
 Changelog for AMRAdapterAdmob. 
 GoogleMobileAds [changelog](https://developers.google.com/admob/ios/rel-notes)
 
+## [13.1.4] - 2026-03-17
+### Updated
+- AMRSDK and GoogleMobileAds dependencies restored as transitive dependencies.
+
 ## [13.1.3] - 2026-03-17
 ### Updated
 - Package.swift simplified to fix SPM resolution.
