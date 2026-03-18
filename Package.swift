@@ -13,7 +13,7 @@ let package = Package(
         )
     ],
     dependencies: [
-        .package(url: "https://github.com/admost/AMR-IOS-SDK.git", from: "1.5.81"),
+        .package(url: "https://github.com/admost/AMR-IOS-SDK.git", from: "1.5.84"),
         .package(url: "https://github.com/googleads/swift-package-manager-google-mobile-ads.git", .exact("13.1.0"))
     ],
     targets: [
