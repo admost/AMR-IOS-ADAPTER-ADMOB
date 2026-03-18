@@ -25,7 +25,7 @@ Versions follow `MAJOR.MINOR.OWN_VERSION` where `MAJOR.MINOR` tracks the AdMob S
 Add the following to your `Package.swift` dependencies:
 
 ```swift
-.package(url: "https://github.com/admost/AMR-IOS-ADAPTER-ADMOB.git", from: "13.1.0")
+.package(url: "https://github.com/admost/AMR-IOS-ADAPTER-ADMOB.git", from: "13.1.6")
 ```
 
 Then add `AMRAdapterAdmob` to your target dependencies:

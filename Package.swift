@@ -27,14 +27,13 @@ let package = Package(
             path: "AMRAdapterAdmob",
             exclude: ["Libs"],
             linkerSettings: [
-                .linkedLibrary("c++"),
-                .unsafeFlags(["-ObjC"])
+                .linkedLibrary("c++")
             ]
         ),
         .binaryTarget(
             name: "AMRAdapterAdmobLib",
-            url: "https://github.com/admost/AMR-IOS-ADAPTER-ADMOB/releases/download/13.1.5/AMRAdapterAdmob.xcframework.zip",
-            checksum: "6eb9fff6c9ed77460b9fc981a6238db694d7ddabaa12b1ba2d928251d2dcbd82"
+            url: "https://github.com/admost/AMR-IOS-ADAPTER-ADMOB/releases/download/13.1.6/AMRAdapterAdmob.xcframework.zip",
+            checksum: "897b33a2ae4626eb5fd9fa34504e3010212338623399099e37d4140569600cea"
         )
     ]
 )

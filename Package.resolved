@@ -6,8 +6,8 @@
         "repositoryURL": "https://github.com/admost/AMR-IOS-SDK.git",
         "state": {
           "branch": null,
-          "revision": "8c431fa83bf6f6baf5ae83b169476037f97d85a9",
-          "version": "1.5.80"
+          "revision": "fd89e7cdc37b3dc30a0454177445fbb2f2e7e5e8",
+          "version": "1.5.84"
         }
       },
       {
@@ -15,8 +15,8 @@
         "repositoryURL": "https://github.com/kokteyldev/KOKTEYL-LOG-SDK.git",
         "state": {
           "branch": null,
-          "revision": "b72a5e77f90ecf15940a2889d91e194be5b140c6",
-          "version": "1.1.2"
+          "revision": "d4cf651e3c3d591748a8887a0a04ab0f5bf7c81c",
+          "version": "1.1.4"
         }
       },
       {

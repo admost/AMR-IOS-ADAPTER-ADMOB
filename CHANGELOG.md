@@ -3,28 +3,9 @@
 Changelog for AMRAdapterAdmob. 
 GoogleMobileAds [changelog](https://developers.google.com/admob/ios/rel-notes)
 
-## [13.1.5] - 2026-03-18
+## [13.1.6] - 2026-03-18
 ### Updated
-- AMRSDK dependency updated to 1.5.81 to resolve SPM tag conflict.
-
-## [13.1.4] - 2026-03-17
-### Updated
-- AMRSDK and GoogleMobileAds dependencies restored as transitive dependencies.
-
-## [13.1.3] - 2026-03-17
-### Updated
-- Package.swift simplified to fix SPM resolution.
-
-## [13.1.2] - 2026-03-17
-### Updated
-- AMRSDK dependency updated to 1.5.80.
-- armv7 removed from VALID_ARCHS (not supported by xcframework).
-- Copyright header added to AMRAdapterAdmob.swift.
-
-## [13.1.0] - 2026-03-16
-### Updated
-- SPM support added.
-- Versioning updated to 3-component scheme.
+- - SPM support added.
 
 ## [13.1.0.0] - 2026-03-02
 ### Updated
