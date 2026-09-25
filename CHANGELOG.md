@@ -3,6 +3,10 @@
 Changelog for AMRAdapterAdmob. 
 GoogleMobileAds [changelog](https://developers.google.com/admob/ios/rel-notes)
 
+## [13.10.0] - 2026-09-25
+### Updated
+- SPM package updated.
+
 ## [13.1.7] - 2026-03-25
 ### Updated
 - SPM package updated.
