@@ -14,7 +14,7 @@ let package = Package(
     ],
     dependencies: [
         .package(url: "https://github.com/admost/AMR-IOS-SDK.git", from: "1.5.84"),
-        .package(url: "https://github.com/googleads/swift-package-manager-google-mobile-ads.git", .exact("13.10.0"))
+        .package(url: "https://github.com/googleads/swift-package-manager-google-mobile-ads.git", .exact("13.11.0"))
     ],
     targets: [
         .target(
@@ -32,8 +32,8 @@ let package = Package(
         ),
         .binaryTarget(
             name: "AMRAdapterAdmobLib",
-            url: "https://github.com/admost/AMR-IOS-ADAPTER-ADMOB/releases/download/13.10.0/AMRAdapterAdmob.xcframework.zip",
-            checksum: "166eedf2e1ea1b3048c063bf7ad2bedadfce1c349e7461152c07bb4ed0d4968f"
+            url: "https://github.com/admost/AMR-IOS-ADAPTER-ADMOB/releases/download/13.11.0/AMRAdapterAdmob.xcframework.zip",
+            checksum: "4f3427eb4a567e40a2057d32343a6f48a40d8c0422a3ede06390bc36c7fc8318"
         )
     ]
 )
